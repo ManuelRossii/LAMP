@@ -8,7 +8,7 @@
         for($i=0; $i<11; $i++) { 
             echo "<tr><td>$i</td></tr>"; 
             for($j=0; $j<11; $j++) { 
-                echo "<tr><td>$j</td></tr>"; 
+                echo "<tr><tr>$j</td></tr>"; 
                 
             } 
         } 
